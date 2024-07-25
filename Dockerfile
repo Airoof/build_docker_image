@@ -1,2 +1,2 @@
-FROM pkharchenkolab/numbat-rbase:latest
+FROM hello-world
 MAINTAINER Airoof <airoof.m@gmail.com>
